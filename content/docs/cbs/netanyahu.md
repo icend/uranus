@@ -2,7 +2,7 @@
 weight: 1
 ---
 
-# cbs news
+# Netanyahu's bloc
 
 ## Original
 
