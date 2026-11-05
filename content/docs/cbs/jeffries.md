@@ -1,3 +1,8 @@
+---
+title: "Jeffries"
+weight: 1
+---
+
 ### original
 Jeffries says he's confident Democrats are "on the verge of taking back control"
 House Democratic Leader Hakeem Jeffries joined a rally in Virginia Beach on Saturday afternoon ahead of the battleground race for Virginia's 2nd Congressional district — a rematch between incumbent Republican Rep. Jen Kiggans and Democratic nominee Elaine Luria.

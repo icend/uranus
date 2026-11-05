@@ -1,5 +1,5 @@
 ---
-title: "cbs news"
+title: "Cbs News"
 weight: 2
 params:
 #  bookFlatSection: true

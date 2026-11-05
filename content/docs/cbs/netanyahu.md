@@ -1,4 +1,5 @@
 ---
+title: "Netanyahu"
 weight: 1
 ---
 
